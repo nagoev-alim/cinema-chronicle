@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Cinema Chronicle</title>
+    <link>http://localhost:63960/tags/</link>
+    <description>Recent content in Tags on Cinema Chronicle</description>
+    <image>
+      <title>Cinema Chronicle</title>
+      <url>http://localhost:63960/images/papermod-cover.png</url>
+      <link>http://localhost:63960/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jan 2025 11:30:03 +0000</lastBuildDate>
+    <atom:link href="http://localhost:63960/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025</title>
+      <link>http://localhost:63960/tags/2025/</link>
+      <pubDate>Wed, 01 Jan 2025 11:30:03 +0000</pubDate>
+      <guid>http://localhost:63960/tags/2025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Потрачено</title>
+      <link>http://localhost:63960/tags/%D0%BF%D0%BE%D1%82%D1%80%D0%B0%D1%87%D0%B5%D0%BD%D0%BE/</link>
+      <pubDate>Wed, 01 Jan 2025 11:30:03 +0000</pubDate>
+      <guid>http://localhost:63960/tags/%D0%BF%D0%BE%D1%82%D1%80%D0%B0%D1%87%D0%B5%D0%BD%D0%BE/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
