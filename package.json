@@ -1,0 +1,10 @@
+{
+  "name": "cinema-chronicle",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "hugo --minify"
+  },
+  "devDependencies": {
+    "hugo-bin": "^0.111.3"
+  }
+}
